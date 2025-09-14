@@ -22,8 +22,11 @@ Software Developer with experience in the .NET & Azure ecosystem. As a former Pr
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
 ### 📊 Stats
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=soustern&show_icons=true&theme=tokyonight)
 
 #
+
