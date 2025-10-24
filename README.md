@@ -3,7 +3,7 @@
 
 **`Student Ad Eternum`**
 
-Software Developer with experience in the .NET & Azure ecosystem. As a former Programming & Robotics instructor and Harvard CS50 alumnus, I'm passionate about turning complex problems into clean, efficient code. My main tools include C#, Python, and JavaScript. Open to new opportunities to build and innovate
+Software Developer with experience in the .NET & Azure ecosystem. As a former Programming & Robotics instructor and Harvard CS50 alumnus, I'm passionate about turning complex problems into clean, efficient code. My main tools include C#, Python, TypeScript and React. Open to new opportunities to build and innovate
 
 ---
 
