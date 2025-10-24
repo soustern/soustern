@@ -77,6 +77,4 @@ I leverage this fundamental knowledge to build modern applications, creating flu
 
 ### GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=soustern&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soustern&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/soustern)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soustern&layout=compact&theme=tokyonight&hide_border=true&langs_count=20)](https://github.com/soustern)
