@@ -1,7 +1,7 @@
 # Rafael Antoniassi Vicechio
 
 <a href="https://soustern.github.io/Soustern-Portfolio-React/" target="_blank">
-  Click here to check my WIP Portfolio!
+  # Click here to check my WIP Portfolio!
 </a>
 
 ### Software Engineer | Full-Stack Developer
