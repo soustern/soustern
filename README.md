@@ -1,4 +1,9 @@
 # Rafael Antoniassi Vicechio
+
+<a href="https://soustern.github.io/Soustern-Portfolio-React/" target="_blank">
+  Click here to check my WIP Portfolio!
+</a>
+
 ### Software Engineer | Full-Stack Developer
 
 A Software Engineer with a passion for solving complex problems, from low-level systems to high-performance web applications. With a solid foundation in Computer Science (Harvard CS50) and hands-on experience in **C**, I possess a deep understanding of data structures, memory management, and algorithmic efficiency.
