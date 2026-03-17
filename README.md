@@ -78,8 +78,3 @@ I leverage this fundamental knowledge to build modern applications, creating flu
   </tr>
 </table>
 
----
-
-### GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soustern&layout=compact&theme=tokyonight&hide_border=true&langs_count=20)](https://github.com/soustern)
